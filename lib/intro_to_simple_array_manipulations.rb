@@ -73,7 +73,7 @@ end
 
  def using_delete(my_list, my_element)
   
-  my_list.delete(my_element)
+my_list.delete(my_element)
 end
 
 
