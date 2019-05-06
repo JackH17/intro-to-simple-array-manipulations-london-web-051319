@@ -71,10 +71,9 @@ def using_flatten(private_colleges_in_newyork)
   
 end
 
-def using_delete(instructors, no_offense_steven)
-  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+def using_delete(instructors
     
-    instructors.delete("Steven")
+
     
 end
 
